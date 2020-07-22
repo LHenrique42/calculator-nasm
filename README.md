@@ -1,5 +1,5 @@
-# Calculator nasm
-Calculator made in ASM in Portuguese
+# Calculator ASM
+Calculator made in ASM (Portuguese)
 
 ### Install NASM if you don't have (Linux):
 
